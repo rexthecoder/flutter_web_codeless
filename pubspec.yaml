@@ -30,8 +30,6 @@ dependencies:
   cupertino_icons: ^1.0.0
   velocity_x: ^0.4.1
   responsive_framework: ^0.0.8
-  animations: ^1.1.2
-  flutter_web_scrollbar: ^0.0.2
   animated_text_kit: ^2.2.0
   lottie: ^0.6.0
 dev_dependencies:
